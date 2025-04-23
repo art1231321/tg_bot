@@ -2,11 +2,17 @@
 > * just for me in case i forget smthng. why its not private then? so I look like cool guy (not rly) *
 
 main code in bot.py
+
 voices.json store tg voice key, number
+
 voices_storage controls for voice list managing
+
 video_processor allows convert video in voice message
+
 states becouse deepseek did so
+
 keyboards for buttons and icons
+
 access_control for access control :D user - admin - superadmin
 
 launch in venv ,
