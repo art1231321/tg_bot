@@ -1,5 +1,5 @@
 # tg_bot
-just for me in case i forget smthng. why its not private then? so I look like cool guy (not rly)
+> * just for me in case i forget smthng. why its not private then? so I look like cool guy (not rly) *
 
 main code in bot.py
 voices.json store tg voice key, number
